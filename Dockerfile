@@ -23,3 +23,4 @@ COPY . /app
 
 # Lệnh mặc định khi container chạy
 CMD ["python3", "app_sadtalker.py"]
+CMD ["python3", "main.py"]
